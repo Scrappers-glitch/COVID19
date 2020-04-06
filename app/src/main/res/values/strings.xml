@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">CoVID-19</string>
+    <string name="epidemiology">Epidemiology</string>
+    <string name="symptoms">Symptoms</string>
+    <string name="pathogensis">Pathogenesis</string>
+    <string name="clinically">Clinically</string>
+    <string name="covid">COVID-19\nMaps</string>
+    <string name="title_activity_list">List</string>
+    <string name="about">About</string>
+    <string name="emergency">Emergency call</string>
+    <string name="version">V5.0R</string>
+    <string name="love">Stay Safe &amp; Healthy</string>
+    <string name="scrap"> scrappers.tm@gmail.com</string>
+    <string name="copy">CopyRight:</string>
+    <string name="tom">Thomas Meshael</string>
+    <string name="tom_description">Front-End Development</string>
+    <string name="pav">Pavly Gerges</string>
+    <string name="pav_description">Back-End Dev. &amp; M.Data</string>
+    <string name="face">Facebook</string>
+    <string name="gmail">Gmail</string>
+    <string name="space">    </string>
+    <string name="fady">Fady Nashaat</string>
+    <string name="fady_description">Medical Data</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>ss
+</resources>

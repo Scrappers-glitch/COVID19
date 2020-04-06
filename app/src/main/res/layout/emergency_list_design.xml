@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/grey_separator"
+    android:baselineAligned="false">
+
+    <ListView
+        android:id="@+id/emergencylistview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:outlineProvider="none"
+        android:backgroundTint="@color/white"
+        android:layout_margin="1dp"
+        android:foregroundTint="@color/white"
+        android:listSelector="@color/colorPrimaryDark"
+        android:padding="0dp"/>
+</LinearLayout>
